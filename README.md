@@ -1,16 +1,12 @@
-</html> 
 
+<!DOCTYPE HTML>  
+<html>
 <head>
 <style>
 .error {color: #FF0000;}
 </style>
 </head>
-
 <body>  
-
-<h1  style="color:blue;"> بطرس رسمي مرسيس صاروفيم </h1>
-<p   style="text-align:right;">اهلا بك في صفحتي الخاصة   ... اتمني لك وقتا طيبا معنا </p>
-
 
 <?php
 // define variables and set to empty values
