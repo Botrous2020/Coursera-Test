@@ -39,7 +39,7 @@
 <body>
 
 <h2>HTML Links</h2>
-<p><a href="https://192.168.1.7//myprojects/input_items.php">  Visit own Application </a></p>
+<p><a href="https://192.168.1.7//myprojects/input_items.php">  ملف اسعار الادوية </a></p>
 
 </body>
 </html>
