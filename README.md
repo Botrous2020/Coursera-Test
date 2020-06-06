@@ -18,7 +18,9 @@
 <body>
 
 <h2>The start attribute</h2>
-<p>By default, an ordered list will start counting from 1. Use the start attribute to start counting from a specified number:</p>
+<p>Domyślnie lista uporządkowana zaczyna się od 1. Użyj atrybutu start, aby rozpocząć liczenie od określonej liczby:
+
+</p>
 
 <ol start="50">
   <li>Coffee</li>
